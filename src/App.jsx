@@ -52,7 +52,7 @@ export default function App() {
     const base =
       import.meta.env.MODE === "development"
         ? "/flashcards.json"
-        : "https://cityofsmiles.github.io/multiplying-monomials-flashcards/flashcards.json";
+        : "https://cityofsmiles.github.io/multiplying-monomials-binomials-flashcards/flashcards.json";
 
     fetch(base)
       .then((res) => res.json())
@@ -114,7 +114,7 @@ export default function App() {
 
   return (
     <div className="flashcards-container">
-      <h1>Multiplying Monomials Flashcards</h1>
+      <h1>Multiplying Monomials and Binomials Flashcards</h1>
       <h3 style={{ fontWeight: "normal", marginBottom: "1rem" }}>
         by Jonathan R. Bacolod, LPT
       </h3>
