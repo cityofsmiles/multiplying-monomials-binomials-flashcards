@@ -1,0 +1,802 @@
+[
+  {
+    "question": "(-9)(-3x^3 + 3)",
+    "answer": "27x^3 - 27"
+  },
+  {
+    "question": "(9)(-8x + 2)",
+    "answer": "18 - 72x"
+  },
+  {
+    "question": "(4)(4x - 1)",
+    "answer": "16x - 4"
+  },
+  {
+    "question": "(-2)(3x^3 - 6)",
+    "answer": "12 - 6x^3"
+  },
+  {
+    "question": "(-6)(5x^4 + 7)",
+    "answer": "-30x^4 - 42"
+  },
+  {
+    "question": "(-2)(-2x^2 + 4)",
+    "answer": "4x^2 - 8"
+  },
+  {
+    "question": "(3)(4x - 1)",
+    "answer": "12x - 3"
+  },
+  {
+    "question": "(-1)(x^2 + 7)",
+    "answer": "-x^2 - 7"
+  },
+  {
+    "question": "(-9)(-2x^4 - 9)",
+    "answer": "18x^4 + 81"
+  },
+  {
+    "question": "(2)(2x^3 + 8)",
+    "answer": "4x^3 + 16"
+  },
+  {
+    "question": "(-7)(-9x^4 + 2)",
+    "answer": "63x^4 - 14"
+  },
+  {
+    "question": "(2)(7x + 9)",
+    "answer": "14x + 18"
+  },
+  {
+    "question": "(8)(8x^3 - 2)",
+    "answer": "64x^3 - 16"
+  },
+  {
+    "question": "(-1)(2x^2 + 9)",
+    "answer": "-2x^2 - 9"
+  },
+  {
+    "question": "(8)(x^2 - 5)",
+    "answer": "8x^2 - 40"
+  },
+  {
+    "question": "(6)(4x^3 - 3)",
+    "answer": "24x^3 - 18"
+  },
+  {
+    "question": "(5)(6x^3 + 6)",
+    "answer": "30x^3 + 30"
+  },
+  {
+    "question": "(-1)(-8x + 7)",
+    "answer": "8x - 7"
+  },
+  {
+    "question": "(-3)(-3x^4 + 2)",
+    "answer": "9x^4 - 6"
+  },
+  {
+    "question": "(4)(-8x^4 + 1)",
+    "answer": "4 - 32x^4"
+  },
+  {
+    "question": "(-2)(9x^2 - 6)",
+    "answer": "12 - 18x^2"
+  },
+  {
+    "question": "(2)(6x^3 + 7)",
+    "answer": "12x^3 + 14"
+  },
+  {
+    "question": "(-8)(x^4 - 9)",
+    "answer": "72 - 8x^4"
+  },
+  {
+    "question": "(-9)(8x + 6)",
+    "answer": "-72x - 54"
+  },
+  {
+    "question": "(-5)(7x^3 + 6)",
+    "answer": "-35x^3 - 30"
+  },
+  {
+    "question": "(-4)(-8x - 4)",
+    "answer": "32x + 16"
+  },
+  {
+    "question": "(-5)(9x^2 + 2)",
+    "answer": "-45x^2 - 10"
+  },
+  {
+    "question": "(6)(5x^3 + 9)",
+    "answer": "30x^3 + 54"
+  },
+  {
+    "question": "(2)(-6x - 7)",
+    "answer": "-12x - 14"
+  },
+  {
+    "question": "(-5)(4x^2 - 7)",
+    "answer": "35 - 20x^2"
+  },
+  {
+    "question": "(3)(7x^2 - 2)",
+    "answer": "21x^2 - 6"
+  },
+  {
+    "question": "(-3)(-5x^4 - 4)",
+    "answer": "15x^4 + 12"
+  },
+  {
+    "question": "(-6)(-6x^4 - 3)",
+    "answer": "36x^4 + 18"
+  },
+  {
+    "question": "(-4)(-7x^3 + 8)",
+    "answer": "28x^3 - 32"
+  },
+  {
+    "question": "(-4)(-2x^4 - 6)",
+    "answer": "8x^4 + 24"
+  },
+  {
+    "question": "(3)(-8x + 4)",
+    "answer": "12 - 24x"
+  },
+  {
+    "question": "(-6)(x^2 + 3)",
+    "answer": "-6x^2 - 18"
+  },
+  {
+    "question": "(2)(3x^3 - 1)",
+    "answer": "6x^3 - 2"
+  },
+  {
+    "question": "(-4)(8x^2 + 1)",
+    "answer": "-32x^2 - 4"
+  },
+  {
+    "question": "(-9)(7x + 7)",
+    "answer": "-63x - 63"
+  },
+  {
+    "question": "(-5)(-7x + 4)",
+    "answer": "35x - 20"
+  },
+  {
+    "question": "(-6)(-3x + 1)",
+    "answer": "18x - 6"
+  },
+  {
+    "question": "(2)(8x^2 - 4)",
+    "answer": "16x^2 - 8"
+  },
+  {
+    "question": "(-5)(2x^3 + 1)",
+    "answer": "-10x^3 - 5"
+  },
+  {
+    "question": "(7)(-x^4 + 1)",
+    "answer": "7 - 7x^4"
+  },
+  {
+    "question": "(8)(5x^4 - 4)",
+    "answer": "40x^4 - 32"
+  },
+  {
+    "question": "(-2)(9x^2 - 6)",
+    "answer": "12 - 18x^2"
+  },
+  {
+    "question": "(9)(-x^4 - 6)",
+    "answer": "-9x^4 - 54"
+  },
+  {
+    "question": "(4)(4x - 4)",
+    "answer": "16x - 16"
+  },
+  {
+    "question": "(-4)(5x - 3)",
+    "answer": "12 - 20x"
+  },
+  {
+    "question": "(6)(-6x^3 - -2y^4)",
+    "answer": "-36x^3 + 12y^4"
+  },
+  {
+    "question": "(-6)(8x^2 - -5y^4)",
+    "answer": "-48x^2 - 30y^4"
+  },
+  {
+    "question": "(-2)(-3x - -3y^3)",
+    "answer": "6x - 6y^3"
+  },
+  {
+    "question": "(9)(9x^2 - 4y^3)",
+    "answer": "81x^2 - 36y^3"
+  },
+  {
+    "question": "(2)(x^4 - y^2)",
+    "answer": "2x^4 - 2y^2"
+  },
+  {
+    "question": "(-6)(-4x^4 + -7y^2)",
+    "answer": "24x^4 + 42y^2"
+  },
+  {
+    "question": "(-1)(7x^3 - -2y^3)",
+    "answer": "-7x^3 - 2y^3"
+  },
+  {
+    "question": "(-9)(-8x - -6y^3)",
+    "answer": "72x - 54y^3"
+  },
+  {
+    "question": "(3)(8x^4 - 4y^4)",
+    "answer": "24x^4 - 12y^4"
+  },
+  {
+    "question": "(-1)(8x^3 + -7y^2)",
+    "answer": "-8x^3 + 7y^2"
+  },
+  {
+    "question": "(2)(8x^2 - 8y)",
+    "answer": "16x^2 - 16y"
+  },
+  {
+    "question": "(-6)(3x^3 + 5y^2)",
+    "answer": "-18x^3 - 30y^2"
+  },
+  {
+    "question": "(7)(7x^2 + -6y^4)",
+    "answer": "49x^2 - 42y^4"
+  },
+  {
+    "question": "(-5)(x^3 - -2y^2)",
+    "answer": "-5x^3 - 10y^2"
+  },
+  {
+    "question": "(-6)(-6x^3 + -2y)",
+    "answer": "36x^3 + 12y"
+  },
+  {
+    "question": "(-7)(8x^4 + -y)",
+    "answer": "-56x^4 + 7y"
+  },
+  {
+    "question": "(-6)(2x^3 - y^4)",
+    "answer": "-12x^3 + 6y^4"
+  },
+  {
+    "question": "(6)(9x - -5y^2)",
+    "answer": "54x + 30y^2"
+  },
+  {
+    "question": "(3)(-8x^3 + -5y^4)",
+    "answer": "-24x^3 - 15y^4"
+  },
+  {
+    "question": "(-1)(-x^3 - 7y^4)",
+    "answer": "x^3 + 7y^4"
+  },
+  {
+    "question": "(-7)(2x^4 + -5y^2)",
+    "answer": "-14x^4 + 35y^2"
+  },
+  {
+    "question": "(6)(8x^4 + -5y^2)",
+    "answer": "48x^4 - 30y^2"
+  },
+  {
+    "question": "(-6)(9x + 4y)",
+    "answer": "-54x - 24y"
+  },
+  {
+    "question": "(-3)(-x + -3y^4)",
+    "answer": "3x + 9y^4"
+  },
+  {
+    "question": "(3)(-7x^4 + 2y^2)",
+    "answer": "-21x^4 + 6y^2"
+  },
+  {
+    "question": "(-2)(-6x^4 - -5y^4)",
+    "answer": "12x^4 - 10y^4"
+  },
+  {
+    "question": "(7)(-8x - -5y)",
+    "answer": "-56x + 35y"
+  },
+  {
+    "question": "(-9)(-2x^4 + 3y^4)",
+    "answer": "18x^4 - 27y^4"
+  },
+  {
+    "question": "(8)(-5x^4 + 6y^4)",
+    "answer": "-40x^4 + 48y^4"
+  },
+  {
+    "question": "(5)(3x + 8y)",
+    "answer": "15x + 40y"
+  },
+  {
+    "question": "(7)(-7x^3 - -6y^2)",
+    "answer": "-49x^3 + 42y^2"
+  },
+  {
+    "question": "(6)(-5x^3 + -6y^2)",
+    "answer": "-30x^3 - 36y^2"
+  },
+  {
+    "question": "(2)(6x^3 + 8y^2)",
+    "answer": "12x^3 + 16y^2"
+  },
+  {
+    "question": "(2)(x^2 + 3y^4)",
+    "answer": "2x^2 + 6y^4"
+  },
+  {
+    "question": "(-2)(-4x - 4y)",
+    "answer": "8x + 8y"
+  },
+  {
+    "question": "(-2)(x - -3y^4)",
+    "answer": "-2x - 6y^4"
+  },
+  {
+    "question": "(-4)(-7x^4 + -9y^3)",
+    "answer": "28x^4 + 36y^3"
+  },
+  {
+    "question": "(-8)(-6x^2 + -5y)",
+    "answer": "48x^2 + 40y"
+  },
+  {
+    "question": "(7)(-2x - -8y^3)",
+    "answer": "-14x + 56y^3"
+  },
+  {
+    "question": "(-2)(-2x^4 + -8y^2)",
+    "answer": "4x^4 + 16y^2"
+  },
+  {
+    "question": "(7)(-6x^3 + -6y^3)",
+    "answer": "-42x^3 - 42y^3"
+  },
+  {
+    "question": "(-5)(-2x^2 + -7y^3)",
+    "answer": "10x^2 + 35y^3"
+  },
+  {
+    "question": "(-1)(-x^3 - 6y^3)",
+    "answer": "x^3 + 6y^3"
+  },
+  {
+    "question": "(5)(8x^2 - -8y^3)",
+    "answer": "40x^2 + 40y^3"
+  },
+  {
+    "question": "(5)(8x - 8y^3)",
+    "answer": "40x - 40y^3"
+  },
+  {
+    "question": "(7)(-7x^4 + -3y^2)",
+    "answer": "-49x^4 - 21y^2"
+  },
+  {
+    "question": "(-3)(-2x - -7y^3)",
+    "answer": "6x - 21y^3"
+  },
+  {
+    "question": "(-9)(7x^4 - 2y^4)",
+    "answer": "-63x^4 + 18y^4"
+  },
+  {
+    "question": "(-1)(7x^3 - -4y^3)",
+    "answer": "-7x^3 - 4y^3"
+  },
+  {
+    "question": "(-5)(3x^4 - -6y^4)",
+    "answer": "-15x^4 - 30y^4"
+  },
+  {
+    "question": "(7x^3)(7x^2 + 5)",
+    "answer": "49x^5 + 35x^3"
+  },
+  {
+    "question": "(-9x^3)(-6x^2 - 1)",
+    "answer": "54x^5 + 9x^3"
+  },
+  {
+    "question": "(-x^2)(6x^4 + 3)",
+    "answer": "-6x^6 - 3x^2"
+  },
+  {
+    "question": "(8x^4)(-3x^2 - 8)",
+    "answer": "-24x^6 - 64x^4"
+  },
+  {
+    "question": "(9x^4)(-8x^3 + 3)",
+    "answer": "-72x^7 + 27x^4"
+  },
+  {
+    "question": "(3x^4)(-5x^2 - 2)",
+    "answer": "-15x^6 - 6x^4"
+  },
+  {
+    "question": "(-2x^4)(x^4 - 6)",
+    "answer": "-2x^8 + 12x^4"
+  },
+  {
+    "question": "(-6x^3)(4x^2 + 9)",
+    "answer": "-24x^5 - 54x^3"
+  },
+  {
+    "question": "(4x^2)(-3x - 7)",
+    "answer": "-12x^3 - 28x^2"
+  },
+  {
+    "question": "(-2x)(8x - 9)",
+    "answer": "-16x^2 + 18x"
+  },
+  {
+    "question": "(-7x^2)(5x^3 - 6)",
+    "answer": "-35x^5 + 42x^2"
+  },
+  {
+    "question": "(3x^4)(-4x - 9)",
+    "answer": "-12x^5 - 27x^4"
+  },
+  {
+    "question": "(5x)(7x - 5)",
+    "answer": "35x^2 - 25x"
+  },
+  {
+    "question": "(2x^2)(-9x^4 - 5)",
+    "answer": "-18x^6 - 10x^2"
+  },
+  {
+    "question": "(9x)(5x + 6)",
+    "answer": "45x^2 + 54x"
+  },
+  {
+    "question": "(4x^2)(-6x^3 - 5)",
+    "answer": "-24x^5 - 20x^2"
+  },
+  {
+    "question": "(6x)(-4x^3 + 5)",
+    "answer": "-24x^4 + 30x"
+  },
+  {
+    "question": "(7x)(6x^2 - 6)",
+    "answer": "42x^3 - 42x"
+  },
+  {
+    "question": "(-7x^2)(8x^3 + 6)",
+    "answer": "-56x^5 - 42x^2"
+  },
+  {
+    "question": "(-9x^2)(2x^2 - 1)",
+    "answer": "-18x^4 + 9x^2"
+  },
+  {
+    "question": "(-5x^4)(8x^4 + 5)",
+    "answer": "-40x^8 - 25x^4"
+  },
+  {
+    "question": "(-8x^3)(-4x^3 - 5)",
+    "answer": "32x^6 + 40x^3"
+  },
+  {
+    "question": "(5x^3)(-4x + 9)",
+    "answer": "-20x^4 + 45x^3"
+  },
+  {
+    "question": "(5x)(-3x^4 - 7)",
+    "answer": "-15x^5 - 35x"
+  },
+  {
+    "question": "(-8x^3)(x + 7)",
+    "answer": "-8x^4 - 56x^3"
+  },
+  {
+    "question": "(9x^3)(4x^4 - 6)",
+    "answer": "36x^7 - 54x^3"
+  },
+  {
+    "question": "(8x)(-9x^4 + 9)",
+    "answer": "-72x^5 + 72x"
+  },
+  {
+    "question": "(7x)(4x^3 - 7)",
+    "answer": "28x^4 - 49x"
+  },
+  {
+    "question": "(4x^4)(-2x^2 - 2)",
+    "answer": "-8x^6 - 8x^4"
+  },
+  {
+    "question": "(-5x)(-3x^2 - 5)",
+    "answer": "15x^3 + 25x"
+  },
+  {
+    "question": "(-3x)(3x^3 - 2)",
+    "answer": "-9x^4 + 6x"
+  },
+  {
+    "question": "(4x^2)(-4x^4 - 5)",
+    "answer": "-16x^6 - 20x^2"
+  },
+  {
+    "question": "(-2x^4)(-8x - 3)",
+    "answer": "16x^5 + 6x^4"
+  },
+  {
+    "question": "(-x^4)(-5x^4 - 1)",
+    "answer": "5x^8 + x^4"
+  },
+  {
+    "question": "(-x)(4x^2 - 3)",
+    "answer": "-4x^3 + 3x"
+  },
+  {
+    "question": "(-3x^3)(-7x^4 - 9)",
+    "answer": "21x^7 + 27x^3"
+  },
+  {
+    "question": "(5x^2)(-5x^2 - 8)",
+    "answer": "-25x^4 - 40x^2"
+  },
+  {
+    "question": "(6x)(2x^2 - 1)",
+    "answer": "12x^3 - 6x"
+  },
+  {
+    "question": "(8x)(-9x^2 - 1)",
+    "answer": "-72x^3 - 8x"
+  },
+  {
+    "question": "(-x^2)(-2x^3 + 8)",
+    "answer": "2x^5 - 8x^2"
+  },
+  {
+    "question": "(x^3)(-2x^4 - 2)",
+    "answer": "-2x^7 - 2x^3"
+  },
+  {
+    "question": "(-2x)(-3x^4 - 2)",
+    "answer": "6x^5 + 4x"
+  },
+  {
+    "question": "(3x^2)(-3x^3 - 8)",
+    "answer": "-9x^5 - 24x^2"
+  },
+  {
+    "question": "(-6x^2)(-2x^2 + 5)",
+    "answer": "12x^4 - 30x^2"
+  },
+  {
+    "question": "(2x^3)(-8x^2 - 4)",
+    "answer": "-16x^5 - 8x^3"
+  },
+  {
+    "question": "(8x^2)(5x^3 - 4)",
+    "answer": "40x^5 - 32x^2"
+  },
+  {
+    "question": "(8x^2)(-3x - 7)",
+    "answer": "-24x^3 - 56x^2"
+  },
+  {
+    "question": "(9x^2)(5x + 2)",
+    "answer": "45x^3 + 18x^2"
+  },
+  {
+    "question": "(-4x)(-2x - 4)",
+    "answer": "8x^2 + 16x"
+  },
+  {
+    "question": "(2x^2)(-3x^2 + 3)",
+    "answer": "-6x^4 + 6x^2"
+  },
+  {
+    "question": "(-5x)(3x^2 - -7y^4)",
+    "answer": "-15x^3 - 35xy^4"
+  },
+  {
+    "question": "(3x)(8x + -8y^3)",
+    "answer": "24x^2 - 24xy^3"
+  },
+  {
+    "question": "(-5x)(-7x^3 + -8y^4)",
+    "answer": "35x^4 + 40xy^4"
+  },
+  {
+    "question": "(-3x^3)(7x^2 - 3y^2)",
+    "answer": "-21x^5 + 9x^3y^2"
+  },
+  {
+    "question": "(-x)(-8x^3 - 5y^2)",
+    "answer": "8x^4 + 5xy^2"
+  },
+  {
+    "question": "(x)(9x^4 + -8y^2)",
+    "answer": "9x^5 - 8xy^2"
+  },
+  {
+    "question": "(6x^3)(-5x^4 + -9y^3)",
+    "answer": "-30x^7 - 54x^3y^3"
+  },
+  {
+    "question": "(-6x)(-5x - 4y^2)",
+    "answer": "30x^2 + 24xy^2"
+  },
+  {
+    "question": "(6x^4)(x + 9y^3)",
+    "answer": "6x^5 + 54x^4y^3"
+  },
+  {
+    "question": "(9x^4)(3x^3 + 4y^2)",
+    "answer": "27x^7 + 36x^4y^2"
+  },
+  {
+    "question": "(-9x^3)(-7x^2 + 3y^3)",
+    "answer": "63x^5 - 27x^3y^3"
+  },
+  {
+    "question": "(7x^4)(9x^3 - 2y^4)",
+    "answer": "63x^7 - 14x^4y^4"
+  },
+  {
+    "question": "(9x^3)(-8x^2 + -3y)",
+    "answer": "-72x^5 - 27x^3y"
+  },
+  {
+    "question": "(-7x^3)(-7x^4 + -7y^3)",
+    "answer": "49x^7 + 49x^3y^3"
+  },
+  {
+    "question": "(-7x^2)(4x^2 - -6y^4)",
+    "answer": "-28x^4 - 42x^2y^4"
+  },
+  {
+    "question": "(7x)(-x - 8y^4)",
+    "answer": "-7x^2 - 56xy^4"
+  },
+  {
+    "question": "(2x)(-6x^3 - 3y^2)",
+    "answer": "-12x^4 - 6xy^2"
+  },
+  {
+    "question": "(-9x)(-6x + y)",
+    "answer": "54x^2 - 9xy"
+  },
+  {
+    "question": "(-2x)(-8x - -5y^4)",
+    "answer": "16x^2 - 10xy^4"
+  },
+  {
+    "question": "(3x^3)(3x^4 + -9y^3)",
+    "answer": "9x^7 - 27x^3y^3"
+  },
+  {
+    "question": "(x^3)(8x^3 + 4y^2)",
+    "answer": "8x^6 + 4x^3y^2"
+  },
+  {
+    "question": "(2x^4)(7x^4 - 5y^4)",
+    "answer": "14x^8 - 10x^4y^4"
+  },
+  {
+    "question": "(7x)(6x + -y^4)",
+    "answer": "42x^2 - 7xy^4"
+  },
+  {
+    "question": "(-4x^3)(-9x^3 + 2y^2)",
+    "answer": "36x^6 - 8x^3y^2"
+  },
+  {
+    "question": "(3x^3)(5x^4 - 2y^2)",
+    "answer": "15x^7 - 6x^3y^2"
+  },
+  {
+    "question": "(6x)(9x^4 + 6y^3)",
+    "answer": "54x^5 + 36xy^3"
+  },
+  {
+    "question": "(7x^2)(7x + 4y^4)",
+    "answer": "49x^3 + 28x^2y^4"
+  },
+  {
+    "question": "(-8x)(-4x^4 + 8y^3)",
+    "answer": "32x^5 - 64xy^3"
+  },
+  {
+    "question": "(5x^3)(x^3 - -6y^2)",
+    "answer": "5x^6 + 30x^3y^2"
+  },
+  {
+    "question": "(5x^4)(4x^3 + 5y^3)",
+    "answer": "20x^7 + 25x^4y^3"
+  },
+  {
+    "question": "(2x^2)(x^2 + y^4)",
+    "answer": "2x^4 + 2x^2y^4"
+  },
+  {
+    "question": "(7x^2)(-3x^3 + -8y^4)",
+    "answer": "-21x^5 - 56x^2y^4"
+  },
+  {
+    "question": "(4x^3)(8x^4 + 4y^3)",
+    "answer": "32x^7 + 16x^3y^3"
+  },
+  {
+    "question": "(-9x^3)(-5x^4 + -5y^4)",
+    "answer": "45x^7 + 45x^3y^4"
+  },
+  {
+    "question": "(5x)(2x^4 - 3y^4)",
+    "answer": "10x^5 - 15xy^4"
+  },
+  {
+    "question": "(-2x^4)(9x^2 - -7y^4)",
+    "answer": "-18x^6 - 14x^4y^4"
+  },
+  {
+    "question": "(-6x^3)(-6x^2 - -2y^2)",
+    "answer": "36x^5 - 12x^3y^2"
+  },
+  {
+    "question": "(-8x^3)(-8x^2 + 7y^4)",
+    "answer": "64x^5 - 56x^3y^4"
+  },
+  {
+    "question": "(-7x^3)(-5x^2 - -5y^3)",
+    "answer": "35x^5 - 35x^3y^3"
+  },
+  {
+    "question": "(9x^3)(6x^4 + y^2)",
+    "answer": "54x^7 + 9x^3y^2"
+  },
+  {
+    "question": "(x^3)(3x^3 + -9y)",
+    "answer": "3x^6 - 9x^3y"
+  },
+  {
+    "question": "(6x^2)(7x - 6y^3)",
+    "answer": "42x^3 - 36x^2y^3"
+  },
+  {
+    "question": "(9x^2)(6x^3 + -9y^3)",
+    "answer": "54x^5 - 81x^2y^3"
+  },
+  {
+    "question": "(6x^4)(-5x^4 + -9y^2)",
+    "answer": "-30x^8 - 54x^4y^2"
+  },
+  {
+    "question": "(4x^4)(-x^4 + 4y^4)",
+    "answer": "-4x^8 + 16x^4y^4"
+  },
+  {
+    "question": "(2x^4)(9x^2 + y^4)",
+    "answer": "18x^6 + 2x^4y^4"
+  },
+  {
+    "question": "(-5x^3)(-4x^2 - 7y)",
+    "answer": "20x^5 + 35x^3y"
+  },
+  {
+    "question": "(6x^4)(8x^2 + -5y^2)",
+    "answer": "48x^6 - 30x^4y^2"
+  },
+  {
+    "question": "(4x^3)(-5x - -7y^2)",
+    "answer": "-20x^4 + 28x^3y^2"
+  },
+  {
+    "question": "(-8x)(9x - -5y^3)",
+    "answer": "-72x^2 - 40xy^3"
+  }
+]
