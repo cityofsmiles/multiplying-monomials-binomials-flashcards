@@ -14,7 +14,7 @@ export default function App() {
     const base =
       import.meta.env.MODE === "development"
         ? "/flashcards.json"
-        : "https://cityofsmiles.github.io/multiplying-monomials-flashcards/flashcards.json";
+        : "https://cityofsmiles.github.io/multiplying-monomials-binomials-flashcards/flashcards.json";
 
     fetch(base)
       .then((res) => res.json())
